@@ -1,33 +1,5 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="PROD" uuid="667242e2-2f7c-4a9a-b380-16d06e8b3cee">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://127.0.0.1:3366</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="TEST" uuid="510b7e33-c0a9-4d9c-9ce4-37942e70c3ff">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3666</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="LOCAL" uuid="11f676c7-9b90-4f46-be13-d7b9f8531401">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="STAGING" uuid="6764292f-4d71-447d-b7e8-af9bff3fd4de">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://127.0.0.1:3396</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
     <data-source source="LOCAL" name="Satellite" uuid="cef52215-bb7e-47a7-be97-28238a607d47">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
@@ -43,14 +15,14 @@
       <jdbc-url>jdbc:postgresql://localhost:5435/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="LOCAL Postgres" uuid="8ec9917a-8f02-42ce-be79-0f7c17a68dee">
+    <data-source source="LOCAL" name="LOCAL" uuid="8ec9917a-8f02-42ce-be79-0f7c17a68dee">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="STAGING Postgres [2]" uuid="7d2d7eb8-94bc-4109-a870-6f8d2cb9b5ba">
+    <data-source source="LOCAL" name="STAGING" uuid="7d2d7eb8-94bc-4109-a870-6f8d2cb9b5ba">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
