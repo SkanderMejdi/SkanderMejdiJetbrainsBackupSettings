@@ -22,13 +22,6 @@
       <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="STAGING" uuid="7d2d7eb8-94bc-4109-a870-6f8d2cb9b5ba">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5495/postgres</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
     <data-source source="LOCAL" name="PROD" uuid="4d558667-0b88-46b8-8312-3049e923063a">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
