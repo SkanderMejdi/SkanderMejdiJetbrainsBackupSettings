@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="core" type="AUTO_DETECTED" />
       <mapping pattern="toto,js" type="JavaScript" />
       <mapping pattern="listener,js" type="JavaScript" />
       <mapping pattern="console" type="PHP" />
