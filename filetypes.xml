@@ -8,6 +8,7 @@
       <mapping pattern="toto" type="PLAIN_TEXT" />
       <mapping pattern="forward_message_from_pro_to_koobi" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".composer_auth" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="features" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
