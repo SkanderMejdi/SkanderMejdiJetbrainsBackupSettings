@@ -26,7 +26,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5459/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:5484/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="STAGING" uuid="3edc732e-6401-4aa1-9800-5751dc7a8cfc">
